@@ -1,0 +1,13 @@
+C:\Users\hughs\OneDrive\Desktop\Repo\TrueCoders_Practice\TrueCoders_Practice\bin\Debug\netcoreapp3.1\TrueCoders_Practice.exe
+C:\Users\hughs\OneDrive\Desktop\Repo\TrueCoders_Practice\TrueCoders_Practice\bin\Debug\netcoreapp3.1\TrueCoders_Practice.deps.json
+C:\Users\hughs\OneDrive\Desktop\Repo\TrueCoders_Practice\TrueCoders_Practice\bin\Debug\netcoreapp3.1\TrueCoders_Practice.runtimeconfig.json
+C:\Users\hughs\OneDrive\Desktop\Repo\TrueCoders_Practice\TrueCoders_Practice\bin\Debug\netcoreapp3.1\TrueCoders_Practice.runtimeconfig.dev.json
+C:\Users\hughs\OneDrive\Desktop\Repo\TrueCoders_Practice\TrueCoders_Practice\bin\Debug\netcoreapp3.1\TrueCoders_Practice.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\TrueCoders_Practice\TrueCoders_Practice\bin\Debug\netcoreapp3.1\TrueCoders_Practice.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\TrueCoders_Practice\TrueCoders_Practice\obj\Debug\netcoreapp3.1\TrueCoders_Practice.csprojAssemblyReference.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\TrueCoders_Practice\TrueCoders_Practice\obj\Debug\netcoreapp3.1\TrueCoders_Practice.AssemblyInfoInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\TrueCoders_Practice\TrueCoders_Practice\obj\Debug\netcoreapp3.1\TrueCoders_Practice.AssemblyInfo.cs
+C:\Users\hughs\OneDrive\Desktop\Repo\TrueCoders_Practice\TrueCoders_Practice\obj\Debug\netcoreapp3.1\TrueCoders_Practice.csproj.CoreCompileInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\TrueCoders_Practice\TrueCoders_Practice\obj\Debug\netcoreapp3.1\TrueCoders_Practice.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\TrueCoders_Practice\TrueCoders_Practice\obj\Debug\netcoreapp3.1\TrueCoders_Practice.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\TrueCoders_Practice\TrueCoders_Practice\obj\Debug\netcoreapp3.1\TrueCoders_Practice.genruntimeconfig.cache

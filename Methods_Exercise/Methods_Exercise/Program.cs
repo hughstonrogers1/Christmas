@@ -27,7 +27,6 @@ namespace Methods_Exercise
             
         }
 
-        
 
     }
 }
